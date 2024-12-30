@@ -1,8 +1,8 @@
 # API Endpoints URLs
 
-- Organizations: `https://dashboard-api-oralens.vercel.app/rest/v1/organizations`
-- Teams: `https://dashboard-api-oralens.vercel.app/rest/v1/teams`
-- Members: `https://dashboard-api-oralens.vercel.app/rest/v1/members`
+- Organizations: https://dashboard-api-oralens.vercel.app/rest/v1/organizations
+- Teams: https://dashboard-api-oralens.vercel.app/rest/v1/teams
+- Members: https://dashboard-api-oralens.vercel.app/rest/v1/members
 
 # API Project
 
