@@ -10,7 +10,7 @@ const port = process.env.PORT || 5173;
 
 const supabase = createClient(
   process.env.SUPABASE_URL,
-  process.env.SUPABASE_KEY
+  process.env.SUPABASE_ANON_KEY
 );
 
 app.use(cors({
